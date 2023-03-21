@@ -46,7 +46,7 @@ main {
     display: flex;
     flex-flow: row nowrap;
     font-size: 18px;
-    background: url(ball.png) repeat-y right; 
+    background: url(111/ball.png) repeat-y right; 
     background-position: right top
 }
 
